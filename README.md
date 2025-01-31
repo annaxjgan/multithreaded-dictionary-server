@@ -1,12 +1,11 @@
-# Multithreaded Dictionary Server
-A dictionary server built using thread and socket programming in java to support concurrent user access.
+# LeetCode
 
-<b> Environment:</b> JDK 22.0.1
-<br>
-<br>
-<b>How to run:</b>
-<br>
-<li>Download <b>DictionaryServer.jar</b> & <b>DictionaryClient.jar</b> files</li>
-<li>Run server: java -jar DictionaryServer.jar <port_number> <worker-pool-size> <file-name></li>
-<li>Run client: java -jar DictionaryServer.jar <ip_address> <port_number></li>
+This repository contains my solutions to LeetCode problems.
 
+Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+
+ ## Made by 
+ - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
+ - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+
+ Happy coding! 🚀
